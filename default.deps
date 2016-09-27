@@ -7,7 +7,7 @@ http://repo1.maven.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.jar
 http://central.maven.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar
   CloudCoder/war/WEB-INF/lib/log4j-1.2.16.jar
   CloudCoderLogging/lib/log4j-1.2.16.jar
-http://owasp-java-html-sanitizer.googlecode.com/svn-history/r118/trunk/distrib/lib/owasp-java-html-sanitizer.jar
+https://search.maven.org/remotecontent?filepath=com/googlecode/owasp-java-html-sanitizer/owasp-java-html-sanitizer/20160924.1/owasp-java-html-sanitizer-20160924.1.jar
   CloudCoderLogging/lib/owasp-java-html-sanitizer.jar
 http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar
   CloudCoderLogging/lib/slf4j-api-1.6.4.jar
@@ -91,7 +91,7 @@ http://download.eclipse.org/jetty/orbit/org.apache.taglibs.standard.glassfish_1.
   CloudCoderJetty/lib/jetty/jsp/org.apache.taglibs.standard.glassfish_1.2.0.v201004190952.jar
 http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jsp-2.1/7.4.4.v20110707/jetty-jsp-2.1-7.4.4.v20110707.jar
   CloudCoderJetty/lib/jetty/jsp/jetty-jsp-2.1-7.4.4.v20110707.jar
-http://json-simple.googlecode.com/files/json-simple-1.1.1.jar
+https://search.maven.org/remotecontent?filepath=com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
   CloudCoderModelClassesJSON/lib/json-simple-1.1.1.jar
   CloudCoder/war/WEB-INF/lib/json-simple-1.1.1.jar
   CloudCoderRepository/war/WEB-INF/lib/json-simple-1.1.1.jar
@@ -120,7 +120,7 @@ http://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.2.1/httpcli
 http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.jar
   CloudCoder/war/WEB-INF/lib/httpcore-4.2.1.jar
   CloudCoderHealthMonitor/lib/httpcore-4.2.1.jar
-http://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
+http://central.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
   CloudCoder/war/WEB-INF/lib/opencsv-2.3.jar
 http://repo1.maven.org/maven2/com/amazonaws/aws-java-sdk/1.3.26/aws-java-sdk-1.3.26.jar
   CloudCoderTools/lib/aws-java-sdk-1.3.26.jar
